@@ -2,6 +2,4 @@
 
 [Private 2nd]
 
-
-[[Private 2nd] gtelarge + KMeans.pdf]
-<img width="80%" src="[https://github.com/ChangeNext/Dacon-News_Articles_Label_Recovery/files/12711716/Private.2nd.gtelarge.%2B.KMeans.pdf]"/>
+<img width="80%" src="https://github.com/ChangeNext/Dacon-News_Articles_Label_Recovery/files/12711716/Private.2nd.gtelarge.%2B.KMeans.pdf"/>
